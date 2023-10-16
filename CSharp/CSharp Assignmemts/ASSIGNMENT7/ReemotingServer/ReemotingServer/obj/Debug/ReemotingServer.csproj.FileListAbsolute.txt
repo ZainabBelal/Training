@@ -1,0 +1,7 @@
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\bin\Debug\ReemotingServer.exe.config
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\bin\Debug\ReemotingServer.exe
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\bin\Debug\ReemotingServer.pdb
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\obj\Debug\ReemotingServer.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\obj\Debug\ReemotingServer.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\obj\Debug\ReemotingServer.exe
+D:\ASSIGNMENTS\ASSIGNMENT7\ReemotingServer\ReemotingServer\obj\Debug\ReemotingServer.pdb

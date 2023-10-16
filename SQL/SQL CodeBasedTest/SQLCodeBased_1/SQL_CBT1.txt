@@ -1,0 +1,39 @@
+Ques 1: Write a query to fetch the details of the books written by author whose name ends with er.
+
+---->select * from Books 
+     where author like '%er'
+
+Ques 2: Display the Title ,Author and ReviewerName for all the books from the above table
+
+----> select b.title, b.author, r.reviewer_name
+      from Books b
+      join Reviews r on b.id = r.bookid
+
+Ques 3: Display the reviewer name who reviewed more than one book.
+
+----> select reviewer_name from Reviews
+      group by reviewer_name
+      having count(distinct bookid)>1
+
+Ques 4: Display the Name for the customer from above customer table who live in same address which has character o anywhere in address
+
+----> select name as 'Name of customers having any "o" in their address',address from customer
+      where address like '%o%'
+
+Ques 5: Write a query to display the Date,Total no of customer placed order on same Date
+
+----> select date ,count (customer_id) as 'Total Customers'
+      from orders 
+      group by date
+
+Ques 6: Display the Names of the Employee in lower case, whose salary is null
+
+---->select lower(name) as 'Name in Lower Case',salary
+     from employee
+     where salary is null
+
+Ques 7: Write a sql server query to display the Gender,Total no of male and female from the above relation
+
+----> select gender as gender,
+      count(*) as total
+      from studentdetailss group by gender

@@ -1,0 +1,7 @@
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\bin\Debug\CodeBasedTest.exe.config
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\bin\Debug\CodeBasedTest.exe
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\bin\Debug\CodeBasedTest.pdb
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.csproj.AssemblyReference.cache
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.csproj.CoreCompileInputs.cache
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.exe
+D:\CodeBased_Test\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.pdb

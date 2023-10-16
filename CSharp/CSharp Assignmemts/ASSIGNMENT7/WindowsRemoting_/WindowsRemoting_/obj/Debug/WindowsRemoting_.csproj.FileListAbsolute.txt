@@ -1,0 +1,14 @@
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\bin\Debug\WindowsRemoting_.exe.config
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\bin\Debug\WindowsRemoting_.exe
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\bin\Debug\WindowsRemoting_.pdb
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\bin\Debug\ReemotingServer.exe
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\bin\Debug\ReemotingServer.pdb
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\bin\Debug\ReemotingServer.exe.config
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.Form1.resources
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.Properties.Resources.resources
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.csproj.GenerateResource.cache
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.csproj.CopyComplete
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.exe
+D:\ASSIGNMENTS\ASSIGNMENT7\WindowsRemoting_\WindowsRemoting_\obj\Debug\WindowsRemoting_.pdb

@@ -1,0 +1,2 @@
+D:\ASSIGNMENTS\ASSIGNMENT7\ClassLibrary1\TestAccounts\obj\Debug\TestAccounts.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\ASSIGNMENT7\ClassLibrary1\TestAccounts\obj\Debug\TestAccounts.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\bin\Debug\App1.exe.config
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\bin\Debug\App1.exe
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\bin\Debug\App1.pdb
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\bin\Debug\Concession_.dll
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\bin\Debug\Concession_.pdb
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\obj\Debug\App1.csproj.CopyComplete
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\obj\Debug\App1.exe
+D:\ASSIGNMENTS\ASSIGNMENT6\Concession_\App1\obj\Debug\App1.pdb
