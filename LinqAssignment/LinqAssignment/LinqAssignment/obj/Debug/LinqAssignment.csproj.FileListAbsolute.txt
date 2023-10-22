@@ -1,0 +1,7 @@
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\bin\Debug\LinqAssignment.exe.config
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\bin\Debug\LinqAssignment.exe
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\bin\Debug\LinqAssignment.pdb
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.csproj.AssemblyReference.cache
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.exe
+C:\Users\zainabb\Desktop\CSharp and SQL Training\LinqToSQL_\LinqAssignment\LinqAssignment\obj\Debug\LinqAssignment.pdb
