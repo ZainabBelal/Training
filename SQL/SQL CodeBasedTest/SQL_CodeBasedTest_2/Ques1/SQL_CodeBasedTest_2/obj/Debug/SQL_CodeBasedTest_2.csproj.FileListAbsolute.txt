@@ -1,0 +1,7 @@
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\bin\Debug\SQL_CodeBasedTest_2.exe.config
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\bin\Debug\SQL_CodeBasedTest_2.exe
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\bin\Debug\SQL_CodeBasedTest_2.pdb
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\obj\Debug\SQL_CodeBasedTest_2.csproj.AssemblyReference.cache
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\obj\Debug\SQL_CodeBasedTest_2.csproj.CoreCompileInputs.cache
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\obj\Debug\SQL_CodeBasedTest_2.exe
+D:\Training\SQL\SQL CodeBasedTest\SQL_CodeBasedTest_2\SQL_CodeBasedTest_2\obj\Debug\SQL_CodeBasedTest_2.pdb
