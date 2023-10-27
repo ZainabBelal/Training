@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F6913C9-0BCA-449A-A16F-05F788E07C2C}</ProjectGuid>
+    <ProjectGuid>{964A6981-B424-4486-9B08-1FB15BE40D76}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Case_Study_</RootNamespace>
-    <AssemblyName>Case_Study_</AssemblyName>
+    <RootNamespace>SMS</RootNamespace>
+    <AssemblyName>SMS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="appEngine.cs" />
-    <Compile Include="Info.cs" />
+    <Compile Include="AppEngine.cs" />
     <Compile Include="Course.cs" />
     <Compile Include="Enroll.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Enrollment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="UserInterface.cs" />

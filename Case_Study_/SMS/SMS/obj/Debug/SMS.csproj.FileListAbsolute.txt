@@ -1,0 +1,7 @@
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\bin\Debug\SMS.exe.config
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\zainabb\Desktop\CSharp and SQL Training\SMS\SMS\obj\Debug\SMS.pdb
