@@ -1,0 +1,7 @@
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\obj\Debug\CodeBased_7.csproj.AssemblyReference.cache
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\obj\Debug\CodeBased_7.csproj.CoreCompileInputs.cache
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\zainabb\Desktop\CSharp and SQL Training\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
