@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "CustomersOrderID";
+}
+
+<h2>Customer with order ID as '10248'</h2>
+@using (Html.BeginForm())
+{
+<table border="1" cellspacing="7" cellpadding="10">
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+       
+    </tr>
+    <tr>
+        <td>@Model.CustomerID</td>
+        <td>@Model.CompanyName</td>
+        
+    </tr>
+</table>
+}
